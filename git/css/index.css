@@ -1,0 +1,55 @@
+selector {
+
+}
+
+h1{
+    border-top: solid 1mm black;
+    border-right: dashed 8px  black;
+    border-bottom: solid  4px blue;
+    border-left: solid 4px red;
+
+    padding-top: solid 35px red ;
+    padding-right: 20px;
+    padding-bottom: 35px;
+    padding-left: 300px;
+
+    margin-top: 10px;
+    margin-right: 10;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+h2{
+    color:dimgrey;
+    font-size:darkblue;
+    Background-color:beige;
+    text-align: center;
+    }   
+
+
+
+.celeste{
+    color: red;
+    text-align: center;}
+
+ul {
+    text-align: center;
+}
+
+li{
+        color: blue;
+        list-style-type: none;
+        margin:15px;
+        text-align: center;
+        display:inline-block;
+        border: 1px solid black;
+        background-color: beige;
+    }
+
+.boton{
+    color: blue
+    text-align: center
+    display:inline-block;
+    border: 1px solid black;
+    background-color: beige;
+}
